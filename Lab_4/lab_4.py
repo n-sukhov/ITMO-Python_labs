@@ -84,5 +84,5 @@ if surv_points > 0:
     print(str_2)
     print(f"\nИтоговые очки выживания: {surv_points}")
 else:
-    print(f"\nВыжить с таким наборо не получится, очки выживания: {surv_points}")
+    print(f"\nВыжить с таким набором не получится, очки выживания: {surv_points}")
     
