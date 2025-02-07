@@ -1,3 +1,4 @@
+#1 вариант
 import requests
 import pyttsx3
 import webbrowser
